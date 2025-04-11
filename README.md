@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [ML-Breakout](https://github.com/joshmadakor1/ml-breakout)
+- [ML-Breakout](https://github.com/benlenjamin/ml-breakout-devops)
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Progress Report v0.9 Video](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [My Major Contributions to ML - Breakout](https://youtu.be/MwT9pnGHj7c)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me (not updated with my contact information yet):</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
