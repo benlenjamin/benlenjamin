@@ -7,10 +7,12 @@
 - [Full Stack Mern App, Single Page Application](https://github.com/benlenjamin/full_stack_mern_app/tree/main)
 - [Client-Server Rock, Paper, Scissors Multiplayer Game](https://github.com/benlenjamin/rockpaperscissors_socket_multiplayer)
 - [Screensaver Physics Simulation](https://github.com/benlenjamin/cs361project)
+- [Computer Shaders Final Project (Puzzle)](https://github.com/benlenjamin/shaders_puzzle)
   
 <h2>📺 Popular YouTube Videos</h2>
 
 - [My Major Contributions to ML - Breakout](https://youtu.be/MwT9pnGHj7c)
+- [Computer Shaders Puzzle](https://media.oregonstate.edu/media/t/1_pjg3ru1y)
 
 <h2> 🤳 Connect with me (not updated with my contact information yet):</h2>
 
