@@ -6,6 +6,7 @@
 - [MIT JOS Lab](https://github.com/OSU-OS2/jos-labs-benlenjamin)
 - [Full Stack Mern App, Single Page Application](https://github.com/benlenjamin/full_stack_mern_app/tree/main)
 - [Client-Server Rock, Paper, Scissors Multiplayer Game](https://github.com/benlenjamin/rockpaperscissors_socket_multiplayer)
+- [GameShop Database and Website](https://github.com/benlenjamin/GameShop_database_and_website)
 - [Screensaver Physics Simulation](https://github.com/benlenjamin/cs361project)
 - [Computer Shaders Final Project (Puzzle)](https://github.com/benlenjamin/shaders_puzzle)
 - [USART Remotely Operated Vehicle Assembly Code](https://github.com/benlenjamin/USART_remotely_operated_vehicle_assembly)
