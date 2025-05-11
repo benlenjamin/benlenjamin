@@ -3,7 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - [ML-Breakout](https://github.com/benlenjamin/ml-breakout-devops)
-
+- [MIT JOS Lab](https://github.com/OSU-OS2/jos-labs-benlenjamin)
+- [Full Stack Mern App, Single Page Application](https://github.com/benlenjamin/full_stack_mern_app/tree/main)
+- [Client-Server Rock, Paper, Scissors Multiplayer Game](https://github.com/benlenjamin/rockpaperscissors_socket_multiplayer)
+- [Screensaver Physics Simulation](https://github.com/benlenjamin/cs361project)
+  
 <h2>📺 Popular YouTube Videos</h2>
 
 - [My Major Contributions to ML - Breakout](https://youtu.be/MwT9pnGHj7c)
