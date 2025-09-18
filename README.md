@@ -13,6 +13,8 @@
 - [USART Remotely Operated Vehicle Assembly Code](https://github.com/benlenjamin/USART_remotely_operated_vehicle_assembly)
 - [Guitar Hero Design Project](https://github.com/benlenjamin/guitar_hero_design_project)
 - [DVWA](https://github.com/benlenjamin/dvwa)
+- [Bloom Filter](https://github.com/benlenjamin/bloom_filter)
+- [Google OTP](https://github.com/benlenjamin/otp_authenticator)
   
 <h2>📺 Popular YouTube Videos</h2>
 
