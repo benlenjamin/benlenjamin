@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ben! <br/><a href="https://github.com/benlenjamin">Programmer
+<h1>Hi, I'm Ben! <br/><a href="https://github.com/benlenjamin/resume/blob/main/Resume.pdf">My Resume
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
