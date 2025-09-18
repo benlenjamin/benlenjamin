@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - [ML-Breakout](https://github.com/benlenjamin/ml-breakout-devops)
+- [Mobile Treasure Hunt](https://github.com/benlenjamin/mobile_treasure_hunt)
 - [MIT JOS Lab](https://github.com/OSU-OS2/jos-labs-benlenjamin)
 - [Full Stack Mern App, Single Page Application](https://github.com/benlenjamin/full_stack_mern_app/tree/main)
 - [Client-Server Rock, Paper, Scissors Multiplayer Game](https://github.com/benlenjamin/rockpaperscissors_socket_multiplayer)
@@ -11,6 +12,7 @@
 - [Computer Shaders Final Project (Puzzle)](https://github.com/benlenjamin/shaders_puzzle)
 - [USART Remotely Operated Vehicle Assembly Code](https://github.com/benlenjamin/USART_remotely_operated_vehicle_assembly)
 - [Guitar Hero Design Project](https://github.com/benlenjamin/guitar_hero_design_project)
+- [DVWA](https://github.com/benlenjamin/dvwa)
   
 <h2>📺 Popular YouTube Videos</h2>
 
