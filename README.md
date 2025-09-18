@@ -17,7 +17,8 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 - [My Major Contributions to ML - Breakout](https://youtu.be/MwT9pnGHj7c)
-- [Computer Shaders Puzzle](https://media.oregonstate.edu/media/t/1_pjg3ru1y)
+- [Mobile Treasure Hunt Video](https://youtu.be/DaxoYahQMNI?si=30nBlbLO1rk3rWRO)
+- [Computer Shaders Puzzle](https://www.youtube.com/watch?v=LwJjZ7yo7gw)
 
 <h2> 🤳 Connect with me (not updated with my contact information yet):</h2>
 
