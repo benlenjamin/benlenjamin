@@ -10,6 +10,7 @@
 - [Screensaver Physics Simulation](https://github.com/benlenjamin/cs361project)
 - [Computer Shaders Final Project (Puzzle)](https://github.com/benlenjamin/shaders_puzzle)
 - [USART Remotely Operated Vehicle Assembly Code](https://github.com/benlenjamin/USART_remotely_operated_vehicle_assembly)
+- [Guitar Hero Design Project](https://github.com/benlenjamin/guitar_hero_design_project)
   
 <h2>📺 Popular YouTube Videos</h2>
 
